@@ -5,9 +5,9 @@
 *MQuote* provides you +700 Motivational & Inspirational quotes by famous authors, celebrities.
 you can select your favorite quotes, you can share the quotes with your friends via facebook, twitter, whatsapp etc.
 
-The app is written in Flutter. 
-This is an open source project.
-This is still under development for making better features.
+- The app is written in Flutter. 
+- This is an open source project.
+- This is still under development for making better features.
 
 [![Download on Google 
 Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=ayb.soft.mquote)
