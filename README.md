@@ -1,16 +1,23 @@
-# mquote
+<img align="left" src="https://raw.githubusercontent.com/arslanaybars/MQuote/master/media/icon.png" alt="">
 
-A new Flutter project.
+# MQuote
 
-## Getting Started
+*MQuote* provides you +700 Motivational & Inspirational quotes by famous authors, celebrities.
+you can select your favorite quotes, you can share the quotes with your friends via facebook, twitter, whatsapp etc.
 
-This project is a starting point for a Flutter application.
+The app is written in Flutter. 
+This is an open source project.
+This is still under development for making better features.
 
-A few resources to get you started if this is your first Flutter project:
+[![Download on Google 
+Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=ayb.soft.mquote)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+stars are welcome. ⭐⭐⭐⭐⭐
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Media
+
+<img align="left" src="https://raw.githubusercontent.com/arslanaybars/MQuote/master/media/mquote.gif" width="225" height="400" />
+<img align="left" src="https://raw.githubusercontent.com/arslanaybars/MQuote/master/media/1.png" width="225" height="400" alt="">
+<img align="left" src="https://raw.githubusercontent.com/arslanaybars/MQuote/master/media/2.png" width="225" height="400" alt="">
+
+
